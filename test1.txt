@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 809E-0194
+
+ Directory of C:\Users\goria\OneDrive\Desktop\MyNewProject
+
+26.06.2021  20:08    <DIR>          .
+26.06.2021  20:08    <DIR>          ..
+26.06.2021  20:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  392ÿ138ÿ956ÿ800 bytes free
